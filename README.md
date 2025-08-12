@@ -2,7 +2,7 @@
 ## ✨ Project Overview
 Welcome to the Food Delivery App repository! This is a new Flutter project designed to build a cross-platform application for ordering and delivering food. Leveraging Flutter's powerful UI toolkit, this project aims to provide a seamless and engaging experience for users to browse menus, place orders, and track deliveries, all from a single codebase.
 
-#🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Flutter: The primary framework for building the cross-platform user interface.
 
